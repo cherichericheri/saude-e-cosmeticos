@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title(':rainbow[Saúde mental e produtos eséticos]')
+st.title(':rainbow[Saúde mental e produtos estéticos]')
 tab1, tab2, tab3, tab4 = st.tabs(["Neurociência", "Cosméticos", "Psicologia", "Créditos"])
 
 with tab1:
