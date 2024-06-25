@@ -6,7 +6,7 @@ tab1, tab2, tab3, tab4 = st.tabs(["Neurociência", "Cosméticos", "Psicologia", 
 with tab1:
     st.header(":red[O que é neurociência?]")
     st.write(
-        "A neurociência :red[estudo o sistema nervoso e as suas funcionalidades]. As áreas do corpo que são estudadas são o "
+        "A neurociência :red[estuda o sistema nervoso e as suas funcionalidades]. As áreas do corpo que são estudadas são: o "
         "cérebro, sistema periférico e medula espinhal."
         " Esses órgãos fazem parte do sistema nervoso e coordenam o corpo humano. A neurociência também estuda :red[fenômenos da mente humana]."
         " É um ramo da :red[biologia], porém pode colaborar com outras áreas como a educação, medicina, comunicação, química, entre outros campos."
