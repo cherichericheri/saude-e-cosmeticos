@@ -56,7 +56,7 @@ with tab2:
     st.header(":violet[Cosméticos e suas propriedades]")
 
     st.write("É inegável que os cosméticos são uma :violet[ferramenta de apoio emocional] e ajudam bastante na :violet[auto estima] de quem"
-             "está utilizando o produto tanto por conseguir melhorar a aparência externa e criar um :violet[sentimento de "
+             " está utilizando o produto tanto por conseguir melhorar a aparência externa e criar um :violet[sentimento de "
              "pertencimento].")
     st.write("A arte da cosmetologia é muito antiga e abrange muitas áreas e produtos como perfumes hidratantes óleos e maquiagens diversas."
              "Essa prática surgiu na :violet[antiguidade egípcia], e tinha como propósito inicial encobrir o cheiro de cadáveres, perfumar o ambiente e fins medicinais.")
